@@ -1,0 +1,12 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Envs & secrets
+.env
+*.env
+server/app/core/secret_config.py
+
+# Build / artifacts
+server/server/app/static/final_captures/
